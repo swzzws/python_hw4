@@ -1,3 +1,3 @@
 домашняя работа №4: работа с датами
 
-# datetime, timedelta
+#datetime #timedelta #перебор дат
